@@ -1,6 +1,6 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>AIM:</h3>
+
 <h3>NAME: Ravivarman VV</h3>
 <h3>REG NO: 212224240133</h3>
 <h3>EX. NO :2</h3>
